@@ -1,2 +1,2 @@
 # ADMM
-Consensus_ADMM_hydropower
+hydropower_scmor
